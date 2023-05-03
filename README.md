@@ -1,6 +1,5 @@
 ### Hi there 👋, Zach Wharton
 #### Loughborough Computer Science Student / Software Engineer
-![Loughborough Computer Science Student / Software Engineer]
 
 I am a 2nd year Computer Science Student at Loughborough University, currently on track to graduate with a first class honours degree.
 
