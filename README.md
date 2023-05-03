@@ -1,6 +1,6 @@
 ### Hi there 👋, Zach Wharton
 #### Loughborough Computer Science Student / Software Engineer
-![Loughborough Computer Science Student / Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Loughborough Computer Science Student / Software Engineer]
 
 I am a 2nd year Computer Science Student at Loughborough University, currently on track to graduate with a first class honours degree.
 
@@ -18,10 +18,6 @@ Skills: Python / React / Next JS / PHP / JavaScript / Java / GCP / Docker
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zxch91)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zxch91&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zxch91)  
-
-![GitHub metrics](https://metrics.lecoq.io/Zxch91)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Zxch91)  
 
