@@ -3,7 +3,7 @@
 
 I am a 2nd year Computer Science Student at Loughborough University, currently on track to graduate with a first class honours degree.
 
-Skills: Python / React / Next JS / PHP / JavaScript / Java / GCP / Docker
+Skills: Python / React / Next JS / PHP / JavaScript / Java / GCP / Docker / SQL
 
 - 🔭 I’m currently working on ZWFooty Android App  
 - 🌱 I’m currently learning Next JS / React 
