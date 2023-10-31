@@ -1,12 +1,11 @@
-### Hi there 👋, Zach Wharton
+### Hi there 👋
 #### Loughborough Computer Science Student / Software Engineer
-I am a 2nd year Computer Science Student at Loughborough University, currently on track to graduate with a first class honours degree.
+I am a Computer Science Student at Loughborough University currently on a placement year at STFC
 
 
-Skills: Python / React / Next JS / PHP / JavaScript / Java / GCP / Docker / SQL
+Skills: Python / React / Next JS / PHP / JavaScript / Java / GCP / Docker / SQL 
 
-- 🔭 I’m currently working on ZWFooty Android App 
-- 🌱 I’m currently learning Next JS / React 
+- 🌱 I’m currently learning Kubernetes / Helm
 - 📫 How to reach me: Email, LinkedIn 
 
 
