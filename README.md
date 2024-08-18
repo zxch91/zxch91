@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Loughborough Computer Science Student / Software Engineer
-I am a Computer Science Student at Loughborough University currently on a placement year at STFC
+I am a Computer Science Student at Loughborough University 
 
 
 Skills: Python / React / Next JS / PHP / JavaScript / Java / GCP / Docker / SQL 
